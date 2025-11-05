@@ -700,7 +700,7 @@ const Header = () => {
         <div className="flex justify-between items-center h-20"> {/* Slightly shorter */}
           <a href="#" onClick={() => setPage('home')} className="font-brand text-3xl font-bold text-stone-900">
             <img 
-              src="Stellar by Chiheb B&W.jpg" 
+              src="/Stellar by Chiheb (1).png" 
               alt="Stellar by Chiheb logo" 
               className="h-10" 
             />
@@ -1407,7 +1407,7 @@ const Footer = () => {
           <div>
             <a href="#" className="font-brand text-3xl font-bold text-white">
               <img 
-                src="Stellar by Chiheb B&W.jpg" 
+                src="/Stellar by Chiheb (1).png" 
                 alt="Stellar by Chiheb logo" 
                 className="h-10" 
                 style={{ filter: 'invert(1)' }} 
