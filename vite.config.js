@@ -14,7 +14,5 @@ export default defineConfig({
   // https://github.com/Bassem-Ben-Hamama/stellar-by-chiheb
   //
   // You must use:
-  // base: '/stellar-by-chiheb/',
-  //
-  base: '/Stellar-by-Chiheb/', 
+  // base: '/stellar-by-chiheb/', 
 })
